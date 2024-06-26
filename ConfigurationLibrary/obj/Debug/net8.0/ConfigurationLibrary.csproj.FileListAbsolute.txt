@@ -1,0 +1,24 @@
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.deps.json
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.pdb
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.csproj.AssemblyReference.cache
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfoInputs.cache
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfo.cs
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\refint\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.pdb
+C:\Users\ANIL\Desktop\yeni lib\ConfigurationLibrary\obj\Debug\net8.0\ref\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.deps.json
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\bin\Debug\net8.0\ConfigurationLibrary.pdb
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.csproj.AssemblyReference.cache
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfoInputs.cache
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.AssemblyInfo.cs
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\refint\ConfigurationLibrary.dll
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ConfigurationLibrary.pdb
+C:\Users\ANIL\Desktop\task\ConfigurationLibrary\obj\Debug\net8.0\ref\ConfigurationLibrary.dll

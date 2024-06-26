@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|c:\\users\\anil\\documents\\github\\configlib\\configurationlibraryweb\\configurationlibraryweb\\mongoconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|solutionrelative:configurationlibraryweb\\mongoconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|c:\\users\\anil\\documents\\github\\configlib\\configurationlibraryweb\\configurationlibraryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|solutionrelative:configurationlibraryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|c:\\users\\anil\\documents\\github\\configlib\\configurationlibraryweb\\configurationlibraryweb\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|solutionrelative:configurationlibraryweb\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|c:\\users\\anil\\documents\\github\\configlib\\configurationlibraryweb\\configurationlibraryweb\\iconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CC4900-001B-4E82-AC1B-A8F8BA7D7CE5}|ConfigurationLibraryWeb\\ConfigurationLibraryWeb.csproj|solutionrelative:configurationlibraryweb\\iconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationLibraryWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\Program.cs",
+              "RelativeToolTip": "ConfigurationLibraryWeb\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:07:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\IConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationLibraryWeb\\IConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\IConfigurationRepository.cs",
+              "RelativeToolTip": "ConfigurationLibraryWeb\\IConfigurationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:49:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\Controllers\\ConfigurationController.cs",
+              "RelativeDocumentMoniker": "ConfigurationLibraryWeb\\Controllers\\ConfigurationController.cs",
+              "ToolTip": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\Controllers\\ConfigurationController.cs",
+              "RelativeToolTip": "ConfigurationLibraryWeb\\Controllers\\ConfigurationController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwDEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:48:11.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\MongoConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationLibraryWeb\\MongoConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\ANIL\\Documents\\GitHub\\ConfigLib\\ConfigurationLibraryWeb\\ConfigurationLibraryWeb\\MongoConfigurationRepository.cs",
+              "RelativeToolTip": "ConfigurationLibraryWeb\\MongoConfigurationRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:48:06.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
